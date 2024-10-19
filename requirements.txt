@@ -1,0 +1,8 @@
+#### 9. **requirements.txt**
+List the required packages:
+
+```plaintext
+pandas
+matplotlib
+seaborn
+jupyter
